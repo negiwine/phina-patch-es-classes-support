@@ -1,0 +1,12 @@
+{
+  "name": "phina-patch-es-classes-support",
+  "version": "0.0.1",
+  "description": "a patch to add es classes support to phina.js",
+  "main": "index.js",
+  "keywords": [
+    "phina.js"
+  ],
+  "repository": "https://github.com/negiwine/phina-patch-es-classes-support",
+  "author": "negiwine",
+  "license": "WTFPL"
+}
